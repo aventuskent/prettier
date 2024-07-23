@@ -1,11 +1,12 @@
 {
-    "name": "@aventuskent/prettier",
+    "name": "@kane/prettier",
     "version": "1.0.0",
     "main": "index.js",
-    "author": "aventuskent",
+    "author": "kane",
     "repository": "https://github.com/aventuskent/prettier",
     "license": "MIT",
     "devDependencies": {
         "prettier": "^3.3.3"
-    }
+    },
+    "files": ["index.js"]
 }

@@ -9,7 +9,7 @@ module.exports = {
     jsxSingleQuote: true,
     bracketSpacing: true,
     jsxBracketSameLine: false,
-    arrowParens: 'avoid',
     vueIndentScriptAndStyle: false,
+    arrowParens: 'avoid',
     endOfLine: 'lf',
 };
