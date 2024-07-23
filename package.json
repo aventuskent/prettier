@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "main": "index.js",
     "author": "aventuskent",
-    "repository": "https://github.com/fanhaoyuan/prettier-config.git",
+    "repository": "https://github.com/aventuskent/prettier",
     "license": "MIT",
     "devDependencies": {
         "prettier": "^3.3.3"
