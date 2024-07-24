@@ -1,12 +1,14 @@
 {
-    "name": "@kane/prettier",
+    "name": "@kane/prettier-config",
     "version": "1.0.0",
     "main": "index.js",
     "author": "kane",
-    "repository": "https://github.com/aventuskent/prettier",
+    "repository": "https://github.com/iiamkane/prettier-config",
     "license": "MIT",
+    "files": [
+        "index"
+    ],
     "devDependencies": {
         "prettier": "^3.3.3"
-    },
-    "files": ["index.js"]
+    }
 }
