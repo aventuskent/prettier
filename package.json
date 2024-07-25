@@ -1,8 +1,8 @@
 {
-    "name": "@kane/prettier-config",
-    "version": "1.0.0",
+    "name": "@iiamkane/prettier-config",
+    "version": "1.2.0",
     "main": "index.js",
-    "author": "kane",
+    "author": "iiamkane",
     "repository": "https://github.com/iiamkane/prettier-config",
     "license": "MIT",
     "files": [
